@@ -1,0 +1,23 @@
+
+body {
+  background-image: url(../img/fundo.jpg);
+}
+
+container {
+  position: absolute;
+}
+.label-inicio {
+  margin-top: 1em;
+} 
+
+h5 {
+  text-align: center;
+  color: #fff;
+}
+
+label {
+  margin-top: 0.5em;
+  color: #fff;
+  font-weight: bold;
+}
+
